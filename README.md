@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+Sun 21/06/2020
 
 ### Project Title
-Replace the Project Title
+bikeshare
 
 ### Description
-Describe what your project is about and what it does
+This project displays bikeshare usage data with customized filters. Language used: Python and Pandas library
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity ND
