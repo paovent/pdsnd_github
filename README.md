@@ -2,10 +2,10 @@
 Sun 21/06/2020
 
 ### Project Title
-bikeshare
+bikeshare for major US cities
 
 ### Description
-This project displays bikeshare usage data with customized filters. Language used: Python and Pandas library
+This project displays bikeshare usage data with customized filters. Language used: Python and Pandas library.
 
 ### Files used
 bikeshare.py
